@@ -15,5 +15,6 @@ public class Main {
         System.out.println(Uczen.getLiczbaUcznia());
         System.out.println(uczen3);
 
+
     }
 }
